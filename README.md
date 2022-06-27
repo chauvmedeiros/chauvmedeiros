@@ -16,3 +16,6 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Nuxt.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
 </div>
+
+  ![Snake animation](https://github.com/chauvmedeiros/chauvmedeiros/blob/output/github-contribution-grid-snake.svg)
+ 
