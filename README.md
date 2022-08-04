@@ -1,4 +1,4 @@
-### Hi there! Sou Chaaunny & Welcome to my profile :) 
+### Hi there! Sou Chauanny & Welcome to my profile :) 
 
 - 🌱 Estudante de Ciência da Computação 
 - ⚡ Developer & Designer - Acompanhe meu progresso por aqui e minha rotina pelo https://www.instagram.com/chauanny.sm/
