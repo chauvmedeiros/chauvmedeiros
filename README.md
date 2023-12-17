@@ -1,7 +1,7 @@
 ### Hi there! Sou Chauanny & Welcome to my profile :) 
 
 - 🌱 Estudante de Ciência da Computação 
-- ⚡ Developer & Designer - Acompanhe meu progresso por aqui e minha rotina pelo https://www.instagram.com/chauanny.sm/
+- ⚡ Software Engineer - Acompanhe meu progresso por aqui e minha rotina pelo https://www.instagram.com/chauanny.sm/
 
 <div align="center">
   <a href="https://github.com/chauvmedeiros">
