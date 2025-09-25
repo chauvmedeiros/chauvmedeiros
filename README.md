@@ -1,34 +1,34 @@
 
-# 👩‍💻 Hi there! Sou Chauanny & Welcome to my profile :)
+# 👩‍💻 Hi there! I am Chauanny & Welcome to my profile :)
 
-Bem-vindo(a) ao meu perfil do GitHub 🚀  
-Sou **programadora** apaixonada por tecnologia, inovação e por transformar ideias em soluções reais através do código.  
-
----
-
-## 🚀 Tecnologias & Ferramentas  
-
-- **Linguagens:** Python 🐍 | Java ☕ | JavaScript ✨  
-- **Frameworks & Bibliotecas:** React ⚛️ | Node.js 🌐 | Django ⚡ | TensorFlow 🤖  
-- **Áreas de interesse:** Backend, Inteligência Artificial, Desenvolvimento Web e Engenharia de Software.  
+Welcome to my GitHub profile 🚀  
+I'm a **software developer** passionate about technology, innovation, and turning ideas into real solutions through code.  
 
 ---
 
-## 🌱 Sobre mim  
+## 🚀 Tech Stack  
 
-- 🎓 Bacharel em Ciência da Computação  
-- 🔭 Atualmente estudando **Inteligência Artificial e Machine Learning**  
-- 💡 Curiosa por novas tecnologias e boas práticas de programação  
-- 🎯 Objetivo: me tornar uma especialista em IA e conquistar oportunidades globais na área de tecnologia  
+- **Languages:** Python 🐍 | Java ☕ | JavaScript ✨  
+- **Frameworks & Libraries:** React ⚛️ | Node.js 🌐 | Django ⚡ | TensorFlow 🤖  
+- **Interests:** Backend Development, Artificial Intelligence, Web Development, and Software Engineering.  
 
 ---
 
-## 📫 Como me encontrar  
+## 🌱 About Me  
+
+- 🎓 Bachelor’s in **Computer Science** 
+- 🔭 Currently learning **Artificial Intelligence and Machine Learning**  
+- 💡 Always curious about new technologies and best coding practices  
+- 🎯 Goal: Become an **AI Specialist** and achieve global opportunities in the tech industry  
+
+---
+
+## 📫 Connect with Me  
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/chauanny-medeiros/))
 - [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chauannytoryy@gmail.com)
 ---
 
-⭐ Se gostou dos meus repositórios, não esqueça de deixar uma **estrela**!  
+⭐ If you enjoy my repositories, don’t forget to leave a **star**! 
 
 
