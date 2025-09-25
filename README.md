@@ -25,9 +25,8 @@ Sou **programadora** apaixonada por tecnologia, inovação e por transformar ide
 
 ## 📫 Como me encontrar  
 
-- 💼 [![LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/chauanny-medeiros/)  
-- 📧 E-mail: **chauannytoryy@gmail.com**  
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/chauanny-medeiros/))
+- [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chauannytoryy@gmail.com)
 ---
 
 ⭐ Se gostou dos meus repositórios, não esqueça de deixar uma **estrela**!  
