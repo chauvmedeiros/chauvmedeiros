@@ -31,18 +31,6 @@ I design and ship **AI agents, RAG pipelines, and automation ecosystems** — fr
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chauvmedeiros&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=2563eb&icon_color=2563eb&text_color=555550)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chauvmedeiros&layout=compact&hide_border=true&bg_color=00000000&title_color=2563eb&text_color=555550)
-
-</div>
-
----
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chauanny-medeiros)
