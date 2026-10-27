@@ -2,7 +2,7 @@
 
 **AI & Software Engineer** building intelligent systems that deliver real results across Brazil and Europe.
 
-I design and ship **AI agents, RAG pipelines, and automation ecosystems** — from WhatsApp bots handling thousands of conversations to full-stack platforms with real-time dashboards. My work sits at the intersection of AI and product engineering: I don't just build models, I build the infrastructure around them.
+I design and ship **AI agents, RAG pipelines, and automation ecosystems** - from WhatsApp bots handling thousands of conversations to full-stack platforms with real-time dashboards. My work sits at the intersection of AI and product engineering: I don't just build models, I build the infrastructure around them.
 
 ---
 
@@ -24,10 +24,10 @@ I design and ship **AI agents, RAG pipelines, and automation ecosystems** — fr
 
 ### 🚀 What I Build
 
-- **AI Agents in Production** — Conversational agents on WhatsApp & Instagram handling real customer workflows (qualification, scheduling, support) using n8n + Supabase + LLMs
-- **RAG Systems** — Retrieval-augmented generation pipelines that connect LLMs to business data for context-aware responses
-- **Automation Ecosystems** — End-to-end workflows integrating Meta APIs, CRMs, databases, and AI — reducing manual work by 80%+
-- **Full-Stack Platforms** — Internal tools, dashboards, and client-facing apps with Supabase, React/Next.js, real-time data
+- **AI Agents in Production** - Conversational agents on WhatsApp & Instagram handling real customer workflows (qualification, scheduling, support) using n8n + Supabase + LLMs
+- **RAG Systems** - Retrieval-augmented generation pipelines that connect LLMs to business data for context-aware responses
+- **Automation Ecosystems** - End-to-end workflows integrating Meta APIs, CRMs, databases, and AI — reducing manual work by 80%+
+- **Full-Stack Platforms** - Internal tools, dashboards, and client-facing apps with Supabase, React/Next.js, real-time data
 
 ---
 
